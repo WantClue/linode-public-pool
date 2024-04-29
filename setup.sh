@@ -148,6 +148,7 @@ while true; do
     echo -e "${YELLOW}================================================================${NC}"
     echo -e "${GREEN}OS: $(getOS) ${NC}"
     echo -e "${GREEN}Created by: WantClue${NC}"
+    echo -e "${GREEN}Special thanks to SethforPrivacy${NC}"
     echo -e "${YELLOW}================================================================${NC}"
     echo -e "${CYAN}1  - Install Docker${NC}"
     echo -e "${CYAN}2  - Setup Bitcoin.conf${NC}"
